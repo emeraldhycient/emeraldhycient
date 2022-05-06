@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **igwezehycient86@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ms9uagiNMmyajbEiKVBkUXaAdnGsAzu6/view?usp=drivesdk](https://drive.google.com/file/d/1ms9uagiNMmyajbEiKVBkUXaAdnGsAzu6/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qPMwnz-hQkMFk9bG11PZGW8-nGim-yC7/view?usp=drivesdk](https://drive.google.com/file/d/1qPMwnz-hQkMFk9bG11PZGW8-nGim-yC7/view?usp=drivesdk)
 
 - ⚡ Fun fact **i kinda discovered programming**
 
