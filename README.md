@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/emeraldhycient" target="blank"><img src="https://img.shields.io/twitter/follow/emeraldhycient?logo=twitter&style=for-the-badge" alt="emeraldhycient" /></a> </p>
 
-- 🔭 I’m currently working on **Gofitish(mobile app),recipe searcher**
+- 🔭 I’m currently working on **Gofitish(mobile app)**
 
 - 🌱 I’m currently learning **circleci**
 
