@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/emeraldhycient](https://github.com/emeraldhycient)
 
-- 💬 Ask me about **react,php,react native**
+- 💬 Ask me about **react,php,node js ,react native**
 
 - 📫 How to reach me **igwezehycient86@gmail.com**
 
