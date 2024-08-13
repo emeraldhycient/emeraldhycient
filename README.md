@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/emeraldhycient" target="blank"><img src="https://img.shields.io/twitter/follow/emeraldhycient?logo=twitter&style=for-the-badge" alt="emeraldhycient" /></a> </p>
 
-- 🔭 I’m currently working on **inshorens**
+- 🔭 I’m currently working on **JobHQ**
 
 - 🌱 I’m currently learning **flutter**
 
@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with **cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/emeraldhycient](https://github.com/emeraldhycient)
+- 👨‍💻 All of my projects are available at [https://hycient.framer.website/](https://hycient.framer.website/)
 
 - 💬 Ask me about **react,node js ,react native**
 
 - 📫 How to reach me **igwezehycient86@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qPMwnz-hQkMFk9bG11PZGW8-nGim-yC7/view?usp=drivesdk](https://drive.google.com/file/d/1qPMwnz-hQkMFk9bG11PZGW8-nGim-yC7/view?usp=drivesdk)
+- 📄 Know about my experiences [https://hycient.framer.website/](portfolio)
 
-- ⚡ Fun fact **i kinda discovered programming**
+- ⚡ Fun fact ** **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
