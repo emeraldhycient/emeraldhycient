@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hycient Igweze</h1>
-<h3 align="center">I am a dedicated and driven full-stack web and cross-platform app developer with a strong passion for crafting digital solutions.</h3>
+<h1 align="center">Hello! I’m Hycient</h1>
+<h3 align="center">An experienced software engineer with a wealth of experience providing solutions for a variety of industries.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emeraldhycient&label=Profile%20views&color=0e75b6&style=flat" alt="emeraldhycient" /> </p>
 
